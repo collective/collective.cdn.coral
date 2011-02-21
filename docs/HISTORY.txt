@@ -1,0 +1,9 @@
+Changelog
+=========
+
+0.5 - Unreleased
+----------------
+
+* Support for CoralCDN using the suffix nyud.net [erico_andrei]
+
+* Initial release [erico_andrei]
